@@ -1,11 +1,11 @@
 # pymy
 
 ## Overview
-pymy is a library for adding ambiguity to bool.  
+pymaibool is a library for adding ambiguity to bool.  
 
 ## Usage
 ```python
-from pymy import pBool
+from pymaibool import pBool
 
 # credibility: 50%
 b = pBool(0.5)
@@ -87,4 +87,4 @@ True
 0.1.0
 
 ## Github
-https://github.com/toripppppy/pytale
+https://github.com/toripppppy/pymai

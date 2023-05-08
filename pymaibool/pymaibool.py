@@ -19,7 +19,7 @@ class pBool:
             raise TypeError("\"credibility\" must be float")
         
         self.is_fixed = False
-        self.flag = False
+        self.flag = self.get()
         
     def __str__(self) -> str:
         return str(self.get())
