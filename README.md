@@ -1,4 +1,5 @@
-# pymy
+# pymaibool
+https://pypi.org/project/pymaibool/
 
 ## Overview
 pymaibool is a library for adding ambiguity to bool.  
@@ -87,4 +88,4 @@ True
 0.1.0
 
 ## Github
-https://github.com/toripppppy/pymai
+https://github.com/toripppppy/pymaibool
